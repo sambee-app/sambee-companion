@@ -3,7 +3,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEzSFlCSnpLS25pa3d5bDNJVEtISFRadTRLNENMellxMk43RDNsWk5UdWE2cHNsdW9iNG90cy9LNDhicXZCTDEydGNkNkN4SEEwUXRNV1V0VjFzeFlqRXVua21EUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTcwOTg0CWZpbGU6U2FtYmVlIENvbXBhbmlvbl8yLjAuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjkKNjJiZVB1Y0paUW1aVWRFRjhXTXBEME5vK002OXhQejN5VlB3OE11YVF4c3BneWQ5VDFZZzcvOHpiUlA4L054cGJhREhxdTN4ZGp0YmNQYlQ5ZGdrQWc9PQo=",
-      "url": "https://github.com/helgeklein/sambee-companion/releases/download/companion-v2.0.9/Sambee.Companion_2.0.9_x64-setup.exe"
+      "url": "https://github.com/sambee-app/sambee-companion/releases/download/companion-v2.0.9/Sambee.Companion_2.0.9_x64-setup.exe"
     }
   },
   "pub_date": "2026-10-02T19:57:03Z",
