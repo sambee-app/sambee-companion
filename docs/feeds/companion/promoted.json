@@ -1,16 +1,16 @@
 {
   "channels": {
     "beta": {
-      "published_at": "2026-09-24T20:16:05Z",
-      "version": "1.0.33"
+      "published_at": "2026-11-07T15:24:05Z",
+      "version": "2.0.33"
     },
     "sambee": {
-      "published_at": "2026-09-24T20:16:05Z",
-      "version": "1.0.33"
+      "published_at": "2026-11-07T15:24:05Z",
+      "version": "2.0.33"
     },
     "stable": {
-      "published_at": "2026-09-24T20:16:05Z",
-      "version": "1.0.33"
+      "published_at": "2026-11-07T15:24:05Z",
+      "version": "2.0.33"
     },
     "test": {
       "published_at": "2026-11-07T15:24:05Z",
